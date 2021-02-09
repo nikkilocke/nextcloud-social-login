@@ -114,6 +114,7 @@ class ProviderService
             ],
             'groups_claim'  => 'groupsClaim',
             'group_mapping' => 'groupMapping',
+            'matchByEmail' => 'matchByEmail',
             'logout_url'    => 'logoutUrl',
         ],
     ];
